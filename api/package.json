@@ -1,0 +1,8 @@
+{
+  "name": "echo-backend",
+  "version": "1.0.0",
+  "dependencies": {
+    "nodemailer": "^6.9.7",
+    "socket.io": "^4.7.2"
+  }
+}
